@@ -103,7 +103,7 @@ body {
   background-color: rgba(255, 255, 255, 0.2);
 }
 .skill:nth-of-type(1) .skill-p {
-  width: 100%;
+  width: 0%;
 }
 .skill:nth-of-type(2) .skill-p {
   width: 100%;
