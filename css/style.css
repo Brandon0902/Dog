@@ -103,7 +103,7 @@ body {
   background-color: rgba(255, 255, 255, 0.2);
 }
 .skill:nth-of-type(1) .skill-p {
-  width: 0%;
+  width: 100%;
 }
 .skill:nth-of-type(2) .skill-p {
   width: 100%;
@@ -849,4 +849,7 @@ body {
     border-left: 0.8vw solid transparent;
     border-right: 0.8vw solid transparent;
   }
+  
 }/*# sourceMappingURL=style.css.map */
+
+
